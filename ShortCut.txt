@@ -1,3 +1,4 @@
 Ctrl + / : single comment
 Shift + Ctrl + / : multiple comment
 Ctrl + Alt + l :Beautify
+Shift + f6 : change the all variables name in the code.
