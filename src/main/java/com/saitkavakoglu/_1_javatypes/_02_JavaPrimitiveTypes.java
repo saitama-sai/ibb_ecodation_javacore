@@ -26,8 +26,8 @@ public class _02_JavaPrimitiveTypes
        //char
        char c1='a';
         System.out.println("char:"+c1);
-
-
+        char c2='\u0041'; //UniCode karakter.
+        System.out.println("char:"+c2);
     }
 
 }
