@@ -1,0 +1,3 @@
+Ctrl + / : single comment
+Shift + Ctrl + / : multiple comment
+Ctrl + Alt + l :Beautify
