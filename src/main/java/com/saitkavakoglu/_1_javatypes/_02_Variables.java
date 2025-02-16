@@ -41,5 +41,9 @@ public class _02_Variables {
         float totalSalary= 3.14f;
         System.out.println("totalSalary:"+totalSalary);
 
+        // SABIT
+        final int MAX_STUDENTS=100;
+        System.out.println("MAX_STUDENTS:"+MAX_STUDENTS);
+        // MAX_STUDENT=134; //şeklinde bir şey yapmamıza izin vermez final keyi değişkeni sabitler.
     }
 }
